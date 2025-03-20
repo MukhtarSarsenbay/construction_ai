@@ -1,4 +1,4 @@
-# AI-Powered Construction Task Manager 🏗️🤖
+# AI-Powered Construction Task Manager 
 
 A FastAPI-based microservice that generates construction project tasks using Google's Gemini Pro AI model and manages project execution.
 
